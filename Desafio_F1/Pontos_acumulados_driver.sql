@@ -7,4 +7,4 @@ FROM
     dadosf1
 ORDER BY
     driver_id,
-    date
+    date 
